@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPort.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfNervousPort0000" x="0" y="0" width="337" height="263" frameX="-2" frameY="-1" frameWidth="339" frameHeight="268"/>
+	<SubTexture name="bfNervousPort0001" x="337" y="0" width="337" height="264" frameX="0" frameY="0" frameWidth="339" frameHeight="268"/>
+	<SubTexture name="bfNervousPort0002" x="674" y="0" width="337" height="262" frameX="-2" frameY="-2" frameWidth="339" frameHeight="268"/>
+	<SubTexture name="bfNervousPort0003" x="0" y="264" width="337" height="266" frameX="-1" frameY="-2" frameWidth="339" frameHeight="268"/>
+	<SubTexture name="bfPort0000" x="337" y="264" width="337" height="264"/>
+</TextureAtlas>

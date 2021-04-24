@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VaseSheet.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down10000" x="0" y="0" width="728" height="1215"/>
+	<SubTexture name="down20000" x="728" y="0" width="728" height="1203"/>
+	<SubTexture name="idle10000" x="1456" y="0" width="696" height="1411"/>
+	<SubTexture name="idle20000" x="2152" y="0" width="696" height="1411"/>
+	<SubTexture name="left10000" x="2848" y="0" width="751" height="1383"/>
+	<SubTexture name="left20000" x="0" y="1411" width="759" height="1367"/>
+	<SubTexture name="right10000" x="759" y="1411" width="704" height="1389"/>
+	<SubTexture name="right20000" x="1463" y="1411" width="707" height="1381"/>
+	<SubTexture name="up10000" x="2170" y="1411" width="695" height="1394"/>
+	<SubTexture name="up20000" x="2865" y="1411" width="695" height="1418"/>
+</TextureAtlas>

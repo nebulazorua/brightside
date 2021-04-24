@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bsPort.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bsPortrait0000" x="0" y="0" width="271" height="282"/>
+	<SubTexture name="maskPortrait0000" x="271" y="0" width="322" height="296"/>
+	<SubTexture name="parasitePortrait0000" x="593" y="0" width="242" height="394"/>
+</TextureAtlas>
